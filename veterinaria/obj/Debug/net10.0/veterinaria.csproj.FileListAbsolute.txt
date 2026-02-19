@@ -1,0 +1,14 @@
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\bin\Debug\net10.0\veterinaria.exe
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\bin\Debug\net10.0\veterinaria.deps.json
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\bin\Debug\net10.0\veterinaria.runtimeconfig.json
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\bin\Debug\net10.0\veterinaria.dll
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\bin\Debug\net10.0\veterinaria.pdb
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\veterinaria.AssemblyInfoInputs.cache
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\veterinaria.AssemblyInfo.cs
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\veterinaria.dll
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\refint\veterinaria.dll
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\veterinaria.pdb
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\veterinaria.genruntimeconfig.cache
+C:\Users\hurta\OneDrive\Escritorio\clínica veterinaria\veterinaria\obj\Debug\net10.0\ref\veterinaria.dll
